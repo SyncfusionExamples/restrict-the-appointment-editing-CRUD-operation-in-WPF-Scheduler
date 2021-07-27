@@ -1,2 +1,1 @@
-# restrict-the-appointment-editing-CRUD-operation-in-WPF-Scheduler
-This example demonstrates to restrict the appointment editing (CRUD) operation in WPF Scheduler (Calendar)
+**[View document in Syncfusion WPF Knowledge base](https://www.syncfusion.com/kb/12773/how-to-restrict-the-appointment-editing-crud-operation-in-wpf-scheduler-calendar)**
